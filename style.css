@@ -28,7 +28,7 @@ body{
 }
 #quoteButton{
 	width:200px;
-	margin-top: 10px;
+	margin-top: 50px;
 	border:2px solid #46b8da;
 	color:#045;
 	font-family: inherit;
@@ -61,4 +61,5 @@ body{
 	#quoteButton,#addNew{
 		display: block;
 	}
+
 }
